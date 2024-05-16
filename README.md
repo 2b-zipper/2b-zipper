@@ -1,4 +1,4 @@
-### newbie
+# Homebrew
 
 <!--
 **2b-zipper/2b-zipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
