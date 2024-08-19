@@ -4,4 +4,5 @@ Hello!
 <p align="left"> 
   <img alt="Luma3DS" height="128px" src="https://github-readme-stats.vercel.app/api/pin/?username=2b-zipper&repo=Luma3DS&theme=github_dark" />
   <img alt="FBI-DP" height="128px" src="https://github-readme-stats.vercel.app/api/pin/?username=2b-zipper&repo=FBI-DarkPlus&theme=github_dark" />
+  <img alt="discord-bot" height="128px" src="https://github-readme-stats.vercel.app/api/pin/?username=2b-zipper&repo=discord-bot&theme=github_dark" />
 </p>
