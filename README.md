@@ -1,4 +1,4 @@
-# Hi, there!
+# Hi there ;)
 
   <img alt="github stats" height="184px" src="https://github-readme-stats.vercel.app/api?username=2b-zipper&count_private=true&show_icons=true&show_icons=true&theme=github_dark" />
 <p align="left"> 
