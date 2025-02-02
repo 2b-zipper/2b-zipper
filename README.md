@@ -1,5 +1,5 @@
 # Hi there ;)
-I'm 2ipper.    
+I'm 2ipper (aka zipper, 2b-zipper).    
 I'm homebrew app developer for Nintendo 3DS.
 
 <p align="left"> 
