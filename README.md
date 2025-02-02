@@ -1,4 +1,6 @@
 # Hi there ;)
+I'm 2ipper.    
+I'm homebrew app developer for Nintendo 3DS.
 
 <p align="left"> 
   <img alt="github stats" height="185px" src="https://github-readme-stats.vercel.app/api?username=2b-zipper&count_private=true&show_icons=true&show_icons=true&theme=github_dark" />
