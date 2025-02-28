@@ -1,6 +1,6 @@
 # Hi there ;)
 I'm 2ipper (aka zipper, 2b-zipper).    
-I'm homebrew developer for Nintendo 3DS.
+I'm a self-taught programmer and homebrew developer for Nintendo 3DS.
 
 ## 🐾 Visitor
 ![Visitor Count](https://count.getloli.com/get/@:2b-zipper?theme=rule34)
