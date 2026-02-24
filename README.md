@@ -33,7 +33,7 @@ Low-level programming enthusiast. Love pushing hardware to its limits.
   <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
-  <a href="https://www.nintendo.com/3ds"><img src="https://img.shields.io/badge/3DS_Homebrew-D12228?style=flat&logo=nintendo-3ds&logoColor=white" /></a>
+  <a href="https://www.3dbrew.org"><img src="https://img.shields.io/badge/3DS_Homebrew-D12228?style=flat&logo=nintendo-3ds&logoColor=white" /></a>
 </p>
 
 ---
