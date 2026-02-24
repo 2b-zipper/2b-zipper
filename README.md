@@ -40,10 +40,8 @@ Low-level programming enthusiast. Love pushing hardware to its limits.
 
 <!-- Stats -->
 <div align="center">
-  <a href="https://github.com/2b-zipper">
-    <img height="150" src="https://github-stats-extended.vercel.app/api/?username=2b-zipper&show_icons=true&include_all_commits=true&number_format=long&show=prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" />
-    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=2b-zipper&langs_count=6&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9" />
-  </a>
+  <a href="https://github.com/2b-zipper"><img height="150" src="https://github-stats-extended.vercel.app/api/?username=2b-zipper&show_icons=true&include_all_commits=true&number_format=long&show=prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" /></a>
+  <a href="https://github.com/2b-zipper"><img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=2b-zipper&langs_count=6&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9" /></a>
 </div>
 
 <br/>
