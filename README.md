@@ -35,7 +35,7 @@ Low-level programming enthusiast. Love pushing hardware to its limits.
 <h3 align="center">☕ Support & Donate</h3>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/2ipper?new=1"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>&nbsp;<a href="https://ko-fi.com/2ipper"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
+  <a href="https://buymeacoffee.com/2ipper"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>&nbsp;<a href="https://ko-fi.com/2ipper"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 </p>
 
 ---
